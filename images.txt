@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:v0.55.1
+openjdk:17-jdk-slim
